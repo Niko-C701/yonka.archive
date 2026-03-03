@@ -81,7 +81,7 @@ body{
     top: 0;
     align-items: center;
     /* transition: width 1s; */
-    z-index: 20;
+    z-index: 200;
     width: 0;
     color: #443f3e00;
     border-radius: 0 5px 5px 0;
